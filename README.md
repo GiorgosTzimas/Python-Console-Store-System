@@ -2,7 +2,8 @@
 
 This project is a text-based store management system built in Python. It simulates a simple online shop where users can browse products, place orders, manage a shopping cart, and perform administrative actions.
 
-The project was developed as part of academic coursework for the course Programming, Algorithms and Data Structures.
+The project was developed as part of academic coursework for the course Programming, Algorithms and Data Structures (MSc. in Business Administration and Data Science).
+
 ---
 
 ## Features
