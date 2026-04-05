@@ -4,7 +4,6 @@ This project is a text-based store management system built in Python. It simulat
 
 The project was developed as part of academic coursework for the course Programming, Algorithms and Data Structures (MSc. in Business Administration and Data Science).
 
----
 
 ## Features
 
@@ -21,7 +20,6 @@ The project was developed as part of academic coursework for the course Programm
 - Update product price, size, and stock
 - Simple password-protected access
 
----
 
 ## Key Concepts
 
@@ -34,7 +32,6 @@ The project was developed as part of academic coursework for the course Programm
 - Input validation and user interaction
 - Modular program structure
 
----
 
 ## Project Structure
 
@@ -54,5 +51,3 @@ The system is built around the following components:
 
 - Global catalog and order storage  
   Used to simulate a simple backend system
-
----
